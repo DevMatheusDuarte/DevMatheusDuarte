@@ -1,9 +1,9 @@
-## Olá! Eu sou o Matheus Duarte!
+## Olá! Eu sou o Matheus Duarte 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help 
+- 🔭 Hoje procuro vaga para front-end
+- 📚 Cursando Gestão da Tecnologia da Informação
+- 📧 contate-me no email: DevMatheusDuarte@gmail.com
+- 🙃 Pronome: ele/dele
 ##
 
 <div align="center">
